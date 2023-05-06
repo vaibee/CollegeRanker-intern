@@ -6,5 +6,8 @@ this course includes:
   2) python Libraries
   3) basic maths-statistics and reggression 
   4) data analysis by tableau software 
+
+
+
 therefore it is a 2 month program 
 1 month training and 1 month intern 
