@@ -9,5 +9,5 @@ this course includes:
 
 
 
-therefore it is a 2 month program 
+therefore it is a 2 month program.
 1 month training and 1 month intern 
