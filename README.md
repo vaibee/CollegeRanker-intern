@@ -1,5 +1,5 @@
 # CollegeRanker-intern
-This is a one month internship project conducted by collegeRanker
+This is a one month internship program conducted by CollegeRanker
 intership on data science with python
 this course includes:
   1) basic python programming
